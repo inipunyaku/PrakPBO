@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\semseter 4\ppbo\Eclipse github\.metadata\.plugins\org.eclipse.jdt.core
+3545700313.index
+3313042721.index
+4183354936.index
